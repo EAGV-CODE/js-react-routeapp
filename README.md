@@ -1,3 +1,6 @@
+Javascript React Application that use a third party component call React Router to work with routing in React.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
